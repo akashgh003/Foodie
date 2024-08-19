@@ -1,5 +1,4 @@
-# Food - Food Ordering Application ![GitHub License](https://img.shields.io/github/license/your-username/food) ![GitHub last commit](https://img.shields.io/github/last-commit/your-username/food) ![GitHub stars](https://img.shields.io/github/stars/your-username/food?style=social) ![GitHub forks](https://img.shields.io/github/forks/your-username/food?style=social)
-
+# Food - Food Ordering Application ![GitHub License]
 **Food** is a full-stack food ordering application built using the MERN (MongoDB, Express, React, Node.js) stack. The application allows users to browse through a variety of food items, add them to the cart, and place orders with seamless payments via the Razorpay demo version.
 
 ## Table of Contents
