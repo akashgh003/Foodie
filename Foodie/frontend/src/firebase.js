@@ -1,5 +1,4 @@
 import { initializeApp } from "firebase/app"
-// import "firebase/firebase-storage"
 import { getFirestore, serverTimestamp } from "firebase/firestore";
 import {getStorage} from 'firebase/storage'
 import { getAuth } from "firebase/auth";
